@@ -8,4 +8,4 @@ run 'node opretTestDB.js'
 
 run 'node anmod.js'
 
-When entering different clothos-types, you can choose between the items listed in the 'tøjtyper'-array on line 16.
+When entering different clothes-types, you can choose between the items listed in the 'tøjtyper'-array on line 16.
